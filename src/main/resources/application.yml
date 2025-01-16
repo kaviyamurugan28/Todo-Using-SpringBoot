@@ -1,0 +1,5 @@
+spring:
+  data:
+    mongodb:
+      uri: mongodb+srv://kaviyamurugan282004:kaviyastephy@kaviyacrud.1aupq.mongodb.net/springboot?retryWrites=true&w=majority
+      database: test
